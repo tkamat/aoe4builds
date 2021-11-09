@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aoe4builds/static/css/main.bd5b0649.chunk.css",
+    "main.js": "/aoe4builds/static/js/main.c57623ca.chunk.js",
+    "main.js.map": "/aoe4builds/static/js/main.c57623ca.chunk.js.map",
+    "runtime-main.js": "/aoe4builds/static/js/runtime-main.3a9f0333.js",
+    "runtime-main.js.map": "/aoe4builds/static/js/runtime-main.3a9f0333.js.map",
+    "static/js/2.91bbeb8e.chunk.js": "/aoe4builds/static/js/2.91bbeb8e.chunk.js",
+    "static/js/2.91bbeb8e.chunk.js.map": "/aoe4builds/static/js/2.91bbeb8e.chunk.js.map",
+    "index.html": "/aoe4builds/index.html",
+    "static/css/main.bd5b0649.chunk.css.map": "/aoe4builds/static/css/main.bd5b0649.chunk.css.map",
+    "static/js/2.91bbeb8e.chunk.js.LICENSE.txt": "/aoe4builds/static/js/2.91bbeb8e.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/aoe4builds/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a9f0333.js",
+    "static/js/2.91bbeb8e.chunk.js",
+    "static/css/main.bd5b0649.chunk.css",
+    "static/js/main.c57623ca.chunk.js"
+  ]
+}
